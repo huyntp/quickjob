@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-26.0.0-alpha1_0cc02dc514840a4b93aa389d556e6e809e0cbd29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-26.0.0-alpha1_3a909309f86fb1672a72b30fd975bfbec043f964/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-26.0.0-alpha1_5130d1345f8c9970bfac4ca1efbc56befde6144d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/NguyenHuy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_ab77826be8f89f18e7ae944e50b09b8a40332719/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-26.0.0-alpha1_7a13c6c98a9c343ac1fbe9af72df01058ba3ed7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-26.0.0-alpha1_151af713247ae3b870a57b92d14b6b0250566e8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-26.0.0-alpha1_e0228d976c2840dcc138f249ada11150a4797ee9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-26.0.0-alpha1_086a7f9de150169149b964c3f14b8af6c49d3671/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-26.0.0-alpha1_5dc5224cc2009672e9d6ecd81eb2bcdb35fcd886/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-26.0.0-alpha1_85afd4a966e33ecf7596a63fc452b798b9e39615/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="44bca4c0efa81812dffcda7a06bfec2b998a6695">
+        <dex dex="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2fc95ccb06bb3f3428432b311f790f67877a2ee8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="1d20e40e175d418aea119ea9d7ccb7fb22eb8987">
+        <dex dex="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_093db18dee4db16a458b56d16055998ad9ac58b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-26.0.0-alpha1_4eb9bd394edb0abcecad54080f51fc7f3fe6bfb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-26.0.0-alpha1_1a67d2e5b4a9cc96bf7f353ef16e4d6875972b15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/NguyenHuy/AndroidStudioProjects/quickjob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-26.0.0-alpha1_2e0a18b01bf75695634840055d696f21d1286ff8/classes.dex" />
+    </item>
+
+</items>
